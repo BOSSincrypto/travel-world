@@ -1,6 +1,6 @@
 {
   "name": "travel-world",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "description": "An interactive world travel tracker for countries visited, memories, and progress.",
   "type": "module",
